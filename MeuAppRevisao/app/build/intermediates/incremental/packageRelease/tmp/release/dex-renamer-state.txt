@@ -1,0 +1,4 @@
+#Tue Oct 27 21:30:34 BRT 2020
+base.0=C\:\\Users\\Giulia\\Desktop\\DigitalHouse\\Android\\MeuAppRevisao\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
