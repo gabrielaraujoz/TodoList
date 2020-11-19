@@ -6,7 +6,11 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="901037de-75fb-4d88-af45-c9a39feafc27" name="Default Changelist" comment="" />
+    <list default="true" id="901037de-75fb-4d88-af45-c9a39feafc27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConsumoAPI/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsumoAPI/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsumoAPI/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsumoAPI/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroducaoActivity" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroducaoActivity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iZicaUDIZF63W3EvPq7vu9tZx1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PI_MarvelApp" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -114,9 +123,9 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="627" y="225" key="AndroidCreateXmlResourceDialog/0.0.1536.826@0.0.1536.826" timestamp="1602123066739" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602191568662">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605751283528">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1602191568662" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1605751283528" />
   </component>
 </project>
